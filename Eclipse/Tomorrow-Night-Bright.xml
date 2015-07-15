@@ -30,7 +30,7 @@
     <field color="#E78C45" />
     <staticField color="#E78C45" />
     <staticFinalField color="#E78C45" />
-    <deprecatedMember color="#4B4E55" underline="false" strikethrough="false" />
+    <deprecatedMember color="#4B4E55" underline="false" strikethrough="true" />
     <enum color="#E78C45" />
     <inheritedMethod color="#7AA6DA" />
     <abstractMethod color="#7AA6DA" />
